@@ -11,6 +11,7 @@ VLFeat -- Vision Lab Features Library
 https://github.com/vlfeat/vlfeat
 
 # Results
+TABLE III. 	TOTAL AND CORRECT MATCHES FOR GRAFFITI SAMPLE </br>/
 | Method | PCA Energy | Equivalent Dimension | I1 -> I2 | I1 -> I3 | I1 -> I4 | I1 -> I5 | I1 -> I6 |
 | ------ | ---------- | -------------------- | -------- | -------- | -------- | -------- | -------- |
 | BSIFT	 | 50 %	|               8	           |  957/1384| 305/725  |	50/380  | 9/298    |	0/197   |
